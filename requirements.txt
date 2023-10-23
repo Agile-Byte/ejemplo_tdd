@@ -1,0 +1,6 @@
+# Tests
+nose
+
+pandas
+setuptools
+openpyxl
