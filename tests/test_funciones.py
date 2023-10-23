@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-"""Pruebas calculadora AVANZADA"""
 
 import unittest
 from unittest import mock
